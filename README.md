@@ -1,1 +1,1 @@
-# cash-register-system
+# Cash-Register-System
